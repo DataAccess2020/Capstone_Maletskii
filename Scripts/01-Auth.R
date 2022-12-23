@@ -3,6 +3,7 @@ library(httr)
 library(stringr)
 library(rvest)
 library(spotifyr)
+library(ggplot2)
 
 
 spotify_cred = rio::import(file = here::here("Credentials/spotify-credentials.xlsx"))

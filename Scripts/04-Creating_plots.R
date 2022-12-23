@@ -1,5 +1,3 @@
-library(ggplot2)
-
 #plot for the first artist----
 gone.frame = data.frame(
   mean_pop = c(mean.gone.19, mean.gone.20, mean.gone.21),
